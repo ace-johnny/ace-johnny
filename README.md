@@ -1,6 +1,6 @@
 # Title Goes Here
 
-I grew up learning to code on a variety of classic 8-bit microcomputers, such as the venerable Apple II and Commodore 64. Over the ensuing years, however, my interest in programming waned as my available discretionary time diminished, and the sedimentary layers of abstracted software complexity piled ever and ever higher.
+I grew up learning to code on a variety of classic 8-bit microcomputers, such as the venerable Apple II and Commodore 64. Over the ensuing years, however, my interest in programming waned considerably as my available discretionary time diminished, and the sedimentary layers of abstracted software complexity piled ever and ever higher.
 
 In an effort to rediscover the joyous roots of my early explorations in electronic artistry, I have turned my attention lately toward learning the Arduino ecosystem of bare-metal embedded development. Succesfully overcoming the severe constraints of confined memory and limited CPU cycles seems a far more satisfying mental challenge than studying yet another flavor-of-the-month framework's syntax.
 
