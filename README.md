@@ -8,7 +8,7 @@ In an effort to rediscover the joyous roots of my early explorations in electron
 
 Rather than start predictably with the ubiquitous Arduino Uno and its basic IDE, I decided to bootstrap my beginning knowledge base using the slightly more sophisticated [Sparkfun Pro Micro](https://github.com/sparkfun/Pro_Micro), along with [Visual Studio Code](https://github.com/microsoft/vscode) and [PlatformIO](https://github.com/platformio/platformio-vscode-ide) as my development toolchain.
 
-- The **Pro Micro**'s ATMega32U4 offers several advantages over the Uno's ATMega328P, most notably its built-in USB transceiver and HID capabilities. Its compact DIP form factor is also ideal for prototyping, and inexpensive clones are widely available thanks to its open-source design.
+- The **Pro Micro**'s ATMega32U4 offers several advantages over the Uno's older ATMega328P, most notable are its built-in USB transceiver and native HID capabilities. Its compact DIP form factor is also ideal for prototyping, and inexpensive clones are widely available.
 
 - **VS Code**'s excellent editing features and flexible configuration are *streets ahead* of Arduino's primitive IDE, offering stellar code completion and syntax highlighting, convenient Git and GitHub integration, and powerful extensibility supporting a wide array of languages.
 
