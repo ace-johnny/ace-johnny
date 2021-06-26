@@ -2,7 +2,7 @@
 
 I grew up learning to code on a variety of classic 8-bit microcomputers, including the venerable Apple II and Commodore 64. Over the ensuing years, however, my interest in programming sadly waned as my available discretionary time inevitably diminished, and the sedimentary layers of abstracted software complexity piled ever and ever higher.
 
-In an effort to rediscover the joys of my early explorations in electronic logic, I turned my attention toward learning the Arduino ecosystem of embedded development. Successfully overcoming the severe constraints of confined memory and limited CPU cycles seemed a far more satisfying mental challenge than studying yet another upstart flavor-of-the-month framework.
+In an effort to rediscover the joys of my early explorations in electronic logic, I turned my attention toward learning the [Arduino](https://github.com/arduino/Arduino) ecosystem of embedded development. Successfully overcoming the severe constraints of confined memory and limited CPU cycles seemed a far more satisfying mental challenge than studying yet another upstart flavor-of-the-month framework.
 
 ## Baby's First µController
 
@@ -25,7 +25,7 @@ Since my extant programming skills are passable, I'm able to focus on developing
 - Interface with buttons, potentiometers, and rotary encoders.
 - Emulate HID devices: keyboards, mice, gamepads, and MIDI.
 - Illuminate addressable RGB pixels using [FastLED](https://github.com/FastLED/FastLED) library.
-- [Bitlash](https://github.com/billroy/bitlash) serial programmable command shell.
+- Script with [Bitlash](https://github.com/billroy/bitlash) serial command shell.
 - Processing [p5.js](https://github.com/processing/p5.js) via [serialport](https://github.com/p5-serial/p5.serialport) to display µC data in browser.
 - Analyze live audio using a mic, FHT algorithm, and `MSGEQ7`.
 - Use OLED for UI display. attiny85 double buffer 128x32 i2c.
