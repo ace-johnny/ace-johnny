@@ -28,8 +28,6 @@ Since my extant programming skills are passable, I'm able to focus on developing
 - Script with [Bitlash](https://github.com/billroy/bitlash) serial command shell.
 - Processing [p5.js](https://github.com/processing/p5.js) via [serialport](https://github.com/p5-serial/p5.serialport) to display µC data in browser.
 - Analyze live audio using a mic, FHT algorithm, and `MSGEQ7`.
-- Use OLED for UI display. attiny85 double buffer 128x32 i2c.
-- attiny85 as i2c interface for individual UI controls, up to 4ch, analog? features on remaining pins? pin expansion?
 
 ## Projects
 
