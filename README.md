@@ -12,7 +12,7 @@ Rather than start predictably with the ubiquitous but bulky Arduino Uno and its 
 
 - Sparkfun's **Pro Micro** hosts an `ATmega32U4`, which offers several advantages over the **Uno**'s `ATmega328P`, most notably a built-in USB transceiver and native HID capabilities. This diminutive dev board also shares its common 0.6" pitch DIP form factor with a large selection of varying compact µControllers.
 
-- **VS Code**'s exceptional editing features and extremely flexible configuration put it *streets ahead* of Arduino's primitive IDE, with stellar syntax highlighting, smart code completion, convenient GitHub integration, advanced debugging, and powerful extensions providing support for seemingly every available language.
+- **VS Code**'s flexible configuration and exceptional editing features put it *streets ahead* of Arduino's primitive IDE, with stellar syntax highlighting, smart code completion, convenient GitHub integration, advanced debugging, and powerful extensions providing support for seemingly every language available.
 
 - **PlatformIO** expertly manages disparate source code repositories and sundry platform build targets while avoiding proprietary dependencies. This toolchain enables the easy reuse of both local and remote code, library management, and common build configurations across a wide array of embedded ecosystems.
 
