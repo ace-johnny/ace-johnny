@@ -23,12 +23,16 @@ All of these tools are open source and are interchangeable with compatible worka
 Since my extant programming skills are passable, I'm able to focus on developing a best-practices library of UI display output routines with integrated events system.
 
 - Interface with buttons, potentiometers, and rotary encoders.
-- Emulate HID devices: keyboards, mice, gamepads, and MIDI.
 - Illuminate addressable RGB pixels using [FastLED](https://github.com/FastLED/FastLED) library.
+- Emulate HID devices: keyboards, mice, gamepads, and MIDI.
 - Script with [Bitlash](https://github.com/billroy/bitlash) serial command shell.
-- Processing [p5.js](https://github.com/processing/p5.js) via [serialport](https://github.com/p5-serial/p5.serialport) to display µC data in browser.
+- Use [p5.js](https://github.com/processing/p5.js) via [p5.serialport](https://github.com/p5-serial/p5.serialport) to display µC data in browser.
+- Display interactive UI on OLED via I2C and SPI
 - Analyze live audio using a mic, FHT algorithm, and `MSGEQ7`.
 
 ## Projects
 
 Individual projects are housed in their respective directories. A list of them all should exist somewhere, you would think, if not right here in this very document section.
+
+- **ace-johnny**: contains this profile readme.
+- **rotary_button-dev**: developing library for rotary encoder with button.
