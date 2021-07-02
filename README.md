@@ -1,8 +1,8 @@
 # [Johnny "Ace" Anderson](http://www.people.vcu.edu/~jranderson/)
 
-I grew up learning to code on a variety of classic 8-bit microcomputers, including the venerable Apple II and Commodore 64. Over the ensuing years, however, my interest in programming sadly waned as my available discretionary time inevitably diminished, and the sedimentary layers of abstracted software complexity piled ever and ever higher.
+I grew up learning to code on a variety of classic 8-bit microcomputers, including the venerable Apple II and Commodore 64. Over the ensuing years, however, my interest in programming sadly waned as my available discretionary time diminished, and the sedimentary layers of abstracted software complexity piled ever and ever higher.
 
-In an effort to rediscover the joys of my early explorations in electronic logic, I turned my attention toward learning the [Arduino](https://github.com/arduino/Arduino) ecosystem of embedded development. Successfully overcoming the severe constraints of confined memory and limited CPU cycles seemed a far more satisfying mental challenge than studying yet another upstart flavor-of-the-month framework.
+In an effort to rediscover the joys of my early explorations in electronic logic, I turned my attention toward learning the [Arduino](https://github.com/arduino/Arduino) ecosystem of embedded development. Successfully overcoming the severe constraints of confined memory and limited CPU cycles seemed a far more nostalgically satisfying mental challenge than studying yet another upstart flavor-of-the-month framework.
 
 ## Baby's First µController
 
