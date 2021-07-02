@@ -6,7 +6,7 @@ In an effort to rediscover the joys of my early explorations in electronic logic
 
 ## Baby's First µController
 
-![Sparkfun Pro Micro ATmega32U4](assets/pro_micro-banner.png "Sparkfun Pro Micro ATmega32U4")
+![Apple II to Arduino](/assets/pro_micro-banner.png)
 
 Rather than start predictably with the ubiquitous but bulky Arduino Uno and its painfully basic IDE, I decided instead to bootstrap my knowledge base by beginning with the slightly more sophisticated [Sparkfun Pro Micro](https://github.com/sparkfun/Pro_Micro) as my introductory µC of study, along with [Visual Studio Code](https://github.com/microsoft/vscode) and [PlatformIO](https://github.com/platformio/platformio-core) as my development environment and build toolchain.
 
