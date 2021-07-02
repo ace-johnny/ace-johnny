@@ -35,4 +35,4 @@ Since my extant programming skills are passable, I'm able to focus on developing
 Individual projects are housed in their respective directories. A list of them all should exist somewhere, you would think, if not right here in this very document section.
 
 - **ace-johnny**: contains this profile readme.
-- **rotary_button-dev**: developing library for rotary encoder with button.
+- **rotary_button-dev**: developing single library for rotary encoder w/ button hardware.
