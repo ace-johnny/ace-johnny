@@ -24,6 +24,6 @@ I'm interested in human/computer user interface design, and creating custom hard
 
     - Which protocols to support? MIDI? OCS? Mackie Control? HID Lighting?
 
-- **Use ATtiny85 as I2C interface** for individual UI controls, up to 4ch. IO expansion? Better µC than ATtiny85 for controller? See the [Atmel ATtiny85 Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet.pdf#G1.1183116) section on pin details.
+- **Use ATtiny85 as I2C interface** for individual UI controls, up to 4ch. IO expansion? Better µC than ATtiny85 for controller? See the [Atmel ATtiny85 Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet.pdf#G1.1183116) section 10.3.1 *Alternate Functions of Port B*.
 
 - **Use ATtiny85 double buffered** with 128x32 I2C OLED.
